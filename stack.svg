@@ -9,7 +9,7 @@
                 }
                 @media (prefers-color-scheme: dark) {
                     *{
-                        color: #adbac7
+                        color: #adbac7;
                     }
                 }
             </style>
