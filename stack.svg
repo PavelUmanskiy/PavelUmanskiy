@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div style="display:grid; grid-template-rows: 1fr 1fr 1fr; grid-template-columns: 1fr 1fr">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display:grid; grid-template-rows: 1fr 1fr 1fr; grid-template-columns: 1fr 1fr">
             <div style="grid-area: 1 / 1 / 3 / 1">
             <ul>Python 🐍
                 <li>Backend:
