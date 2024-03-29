@@ -13,73 +13,11 @@
 
 # Мой стек 📚
 
-<div style="display:grid; grid-template-rows: 1fr 1fr 1fr; grid-template-columns: 1fr 1fr">
-    <div style="grid-area: 1 / 1 / 3 / 1">
-      <ul>Python 🐍
-        <li>Backend:
-            <ul>
-                <li>FastAPI</li>
-                <li>Django/DRF</li>
-                <li>Aiogram</li>
-            </ul>
-        </li>
-        <li>Data:
-            <ul>
-                <li>Pandas</li>
-                <li>NumPy</li>
-                <li>Plotly</li>
-            </ul>
-        </li>
-        <li>Async:
-            <ul>
-                <li>Asyncio</li>
-                <li>Aiofiles</li>
-                <li>Celery</li>
-            </ul>
-        </li>
-      </ul>
-    </div>
-    <div style="grid-area: 3 / 1 / 4 / 1">
-      <ul>JavaScript 🟨
-        <li>Backend:
-            <ul>
-                <li>node.js</li>
-            </ul>
-        </li>
-        <li>Frontend:
-            <ul>
-                <li>React</li>
-            </ul>
-        </li>
-      </ul>
-    </div>
-    <div style="grid-area: 1 / 2 / 2 / 2">
-        <ul>Go 🔵
-            <li>Открываю новые возможности...</li>
-        </ul>
-    </div>
-    <div style="grid-area: 2 / 2 / 2 / 2">
-        <ul>Database 🗃️
-            <li>Relational:
-                <ul>
-                    <li>SQL (PostgreSQL, SQLite, MSSQL)</li>
-                </ul>
-            </li>
-            <li>Non-Relational:
-                <ul>
-                    <li>Redis</li>
-                    <li>MongoDB</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-    <div style="grid-area: 3 / 2 / 3 / 2">
-        <ul>Others ➕
-            <li>Docker/Docker-compose</li>
-            <li>HTMX</li>
-        </ul>
-    </div>
-  </div>
+<div style="width: 100%;">
+  <a href="https://github.com/PavelUmanskiy/PavelUmanskiy/blame/main/stack.svg">
+    <img src="stack.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
   
 # Некоторые мои личные проекты 🛠️
 
