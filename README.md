@@ -1,14 +1,4 @@
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 # О себе 👱🏻
 
 Я бэкенд-разработчик, в 2022 году открыл для себя захватывающий мир программирования. С тех пор я постиг множество интересных технологий и концепций, но самое лучшее - я до сих пор нахожу новые области, в которых я могу себя проявить.    
@@ -23,34 +13,74 @@ Here are some ideas to get you started:
 
 # Мой стек 📚
 
-  ## Python 🐍
-  - Backend:
-    - FastAPI
-    - Django/DRF
-    - Aiogram
-  - Data:
-    - Pandas
-    - NumPy
-    - Plotly
-  - Async:
-    - Asyncio
-    - Aiofiles
-    - Celery
-  ## JavaScript 🟨
-  - Backend:
-    - node.js
-  - Frontend:
-    - React
-  ## Database 🗃️
-  - Relational:
-    - SQL (PostgreSQL, SQLite, MSSQL)
-  - Non-Relational:
-    - Redis
-    - MongoDB
-  ## Others ➕
-  - Docker/Docker-compose
-  - HTMX
-
+<div style="display:grid; grid-template-rows: 1fr 1fr 1fr; grid-template-columns: 1fr 1fr">
+    <div style="grid-area: 1 / 1 / 3 / 1">
+      <ul>Python 🐍
+        <li>Backend:
+            <ul>
+                <li>FastAPI</li>
+                <li>Django/DRF</li>
+                <li>Aiogram</li>
+            </ul>
+        </li>
+        <li>Data:
+            <ul>
+                <li>Pandas</li>
+                <li>NumPy</li>
+                <li>Plotly</li>
+            </ul>
+        </li>
+        <li>Async:
+            <ul>
+                <li>Asyncio</li>
+                <li>Aiofiles</li>
+                <li>Celery</li>
+            </ul>
+        </li>
+      </ul>
+    </div>
+    <div style="grid-area: 3 / 1 / 4 / 1">
+      <ul>JavaScript 🟨
+        <li>Backend:
+            <ul>
+                <li>node.js</li>
+            </ul>
+        </li>
+        <li>Frontend:
+            <ul>
+                <li>React</li>
+            </ul>
+        </li>
+      </ul>
+    </div>
+    <div style="grid-area: 1 / 2 / 2 / 2">
+        <ul>Go 🔵
+            <li>Открываю новые возможности...</li>
+        </ul>
+    </div>
+    <div style="grid-area: 2 / 2 / 2 / 2">
+        <ul>Database 🗃️
+            <li>Relational:
+                <ul>
+                    <li>SQL (PostgreSQL, SQLite, MSSQL)</li>
+                </ul>
+            </li>
+            <li>Non-Relational:
+                <ul>
+                    <li>Redis</li>
+                    <li>MongoDB</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div style="grid-area: 3 / 2 / 3 / 2">
+        <ul>Others ➕
+            <li>Docker/Docker-compose</li>
+            <li>HTMX</li>
+        </ul>
+    </div>
+  </div>
+  
 # Некоторые мои личные проекты 🛠️
 
 | Репозиторий | Описание | Стек |
