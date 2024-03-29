@@ -25,28 +25,28 @@ Here are some ideas to get you started:
 
   ## Python 🐍
   - Backend:
-    1) FastAPI
-    2) Django/DRF
-    3) Aiogram
+    - FastAPI
+    - Django/DRF
+    - Aiogram
   - Data:
-    1) Pandas
-    2) NumPy
-    3) Plotly
+    - Pandas
+    - NumPy
+    - Plotly
   - Async:
-    1) Asyncio
-    2) Aiofiles
-    3) Celery
+    - Asyncio
+    - Aiofiles
+    - Celery
   ## JavaScript 🟨
   - Backend:
-    1) node.js
+    - node.js
   - Frontend:
-    1) React
+    - React
   ## Database 🗃️
   - Relational:
-    1) SQL (PostgreSQL, SQLite, MSSQL)
+    - SQL (PostgreSQL, SQLite, MSSQL)
   - Non-Relational:
-    1) Redis
-    2) MongoDB
+    - Redis
+    - MongoDB
   ## Others ➕
   - Docker/Docker-compose
   - HTMX
