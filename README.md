@@ -1,3 +1,6 @@
+<div style="width: 100%;">
+    <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" height=200 width=1000 alt="Click to see the source">
+</div>
 
 # О себе 👱🏻
 
