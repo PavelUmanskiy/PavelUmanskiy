@@ -10,7 +10,7 @@
 
 # Мои контакты 📞
   - [Telegram](https://t.me/misty_light)
-  - Mail: pavel.umanskiy.main@gmail.com ([ссылка](pavel.umanskiy.main@gmail.com))
+  - Mail: pavel.umanskiy.main@gmail.com
   - Phone: +79934933841
   - WhatsApp: +79934933841
 
