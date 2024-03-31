@@ -15,7 +15,7 @@
 
 <div style="width: 100%;">
   <a href="https://github.com/PavelUmanskiy/PavelUmanskiy/blame/main/stack.svg">
-    <img src="stack.svg" style="width: 340px;" alt="Click to see the source">
+    <img src="stack.svg" style="width: 50%;" alt="Click to see the source">
   </a>
 </div>
   
