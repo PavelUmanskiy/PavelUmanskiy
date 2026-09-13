@@ -51,7 +51,26 @@
                     </div>
                     <div class="item-helper">
                         <ul>Go 🔵
-                            <li>Открываю новые возможности...</li>
+                            <li>Backend:
+                                <ul>
+                                    <li>Gin</li>
+                                    <li>Echo</li>
+                                    <li>Testify</li>
+                                </ul>
+                            </li>
+                            <li>Protocols:
+                                <ul>
+                                    <li>gRPC</li>
+                                    <li>protobuf</li>
+                                </ul>
+                            </li>
+                            <li>Microservices:
+                                <ul>
+                                    <li>Kafka</li>
+                                    <li>Prometheus+Grafana</li>
+                                </ul>
+                            </li>
+
                         </ul>
                     </div>
                 </div>
