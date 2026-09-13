@@ -56,12 +56,6 @@
                                     <li>Gin</li>
                                     <li>Echo</li>
                                     <li>Kafka</li>
-                                    <li>Prometheus+Grafana</li>
-                                </ul>
-                            </li>
-                            <li>Protocols:
-                                <ul>
-                                    <li>gRPC</li>
                                     <li>protobuf</li>
                                 </ul>
                             </li>
