@@ -55,7 +55,8 @@
                                 <ul>
                                     <li>Gin</li>
                                     <li>Echo</li>
-                                    <li>Testify</li>
+                                    <li>Kafka</li>
+                                    <li>Prometheus+Grafana</li>
                                 </ul>
                             </li>
                             <li>Protocols:
@@ -64,13 +65,6 @@
                                     <li>protobuf</li>
                                 </ul>
                             </li>
-                            <li>Microservices:
-                                <ul>
-                                    <li>Kafka</li>
-                                    <li>Prometheus+Grafana</li>
-                                </ul>
-                            </li>
-
                         </ul>
                     </div>
                 </div>
